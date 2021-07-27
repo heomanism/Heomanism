@@ -1,15 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Min%20Heo&fontSize=90&fontColor=ffffff)
+<h1>
+  :wave: Welcome to Min Heo's Git 
+</h1>
+
+<h4>
+  :bowtie: Hello, My name is Min Heo. <br> <br>
+  🌐 I'm from South Korea. <br> <br>
+  ✏️ I'm in the master's degree in bioinformatics at Seoul National University (SNU)
+</h4>
+  
 
 
-<p align="center">
-  <b> 👋 Hi, My name is Min Heo</b> 
-</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
+
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
 
 
 
