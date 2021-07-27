@@ -30,7 +30,10 @@
 <div>
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp
+  <a href="https://heo7371@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://heo7371@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
 </div>
 
 <br> 
